@@ -33,9 +33,12 @@ This code should only be used in research and development settings.
 2. Visual Studio needed to compile the source code
 
 
+# Deployment 
 
+See **Deployment_Guide_AviPlanner.pdf** in the root folder for detailed instruction.
 
 # Configuration
+
 
 1. App.config (which will be compiled into name_of_the_exe.config)
 
