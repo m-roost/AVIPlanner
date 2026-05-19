@@ -33,7 +33,7 @@ Common ways teams support this project:
 
 To discuss support options:
 - Primary contact: Charles Mayo (cmayo@med.umich.edu)
-- Co-contact: Ying Xiao (ying.xiao@pennmedicine.upenn.edu)
+- Co-contact: Andrew Bennet(andbenne@umich.edu)
 
 ## 5) Alternative/commercial licensing
 Alternative licensing may be available for organizations that need terms different from GPL-3.0. Terms and pricing are negotiated case-by-case.
